@@ -1,6 +1,6 @@
-#!us6/ r/bin/env python#
-# -*- c9090909090909090909090909090(((((((((((((((((((((((_-oding: utf-8 -*-
-"""Even and Odds Function."""
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""Dictionary Comprehension."""
 
 
 from data import FRUIT
